@@ -1,3 +1,4 @@
+#include "main.h"
 #ifndef INITIALIZE_H_
 #define INITIALIZE_H_
 
