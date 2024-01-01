@@ -1,8 +1,10 @@
+//include files
 #include "main.h"
 #include "globals.h"
 #include "lemlib/api.hpp"
 
 //global port definitions
+//CHANGE THESE NUMBERS TO ITS CORRESPONDING SUBSYSTEM
 #define LEFT_FRONT_MOTOR 1
 #define LEFT_BACK_MOTOR_BOTTOM 2
 #define LEFT_BACK_MOTOR_TOP 3
